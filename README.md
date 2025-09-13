@@ -1,2 +1,4 @@
 # vision
 ABOUT
+# mission
+COMPANY
